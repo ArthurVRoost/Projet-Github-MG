@@ -1,0 +1,23 @@
+.WB{
+    background-color: rgba(255, 166, 0, 0.419);
+}
+.SL{
+    background-color: rgba(24, 166, 243, 0.356);
+}
+.TBATE{
+    background-color: rgba(221, 160, 221, 0.48);
+}
+
+.h1SL{
+    text-decoration: underline;
+}
+
+.h1WB{
+    text-decoration: underline;
+}
+.h1TBATE{
+    text-decoration: underline;
+}
+.bg{
+    background-color: rgba(128, 128, 128, 0.333);
+}
